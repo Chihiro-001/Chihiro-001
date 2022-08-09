@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chihiro-001
-- I’m currently learning Javascript 🌱
+- I’m currently learning Javascript and React.js 🌱
 - I will commit as much as I can. If you have any feedback on my project(s), please drop a comment 😉
 - 👀 Outside of coding, I’m passionate about health, environment, and fitness 🌷
 
