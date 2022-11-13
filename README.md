@@ -1,4 +1,4 @@
-<img src="https://github.com/Chihiro-001/Chihiro-001/blob/main/heading-picture_ChihiroIsmail.png" alt="heading picture for Chihiro Ismail" align="center" style="width: 100%"/>
+<img src="https://github.com/Chihiro-001/Chihiro-001/blob/main/heading-picture_ChihiroIsmail_new.png" alt="heading picture for Chihiro Ismail" align="center" style="width: 100%"/>
 
 
 - 🌱 I’m currently learning NextJS, Redux, and AWS.
