@@ -1,10 +1,7 @@
+<img src="https://github.com/Chihiro-001/Chihiro-001/blob/main/heading-picture_ChihiroIsmail.png" alt="heading picture for Chihiro Ismail" align="center" style="width: 100%"/>
 
 
 - 🌱 I’m currently learning NextJS, Redux, and AWS.
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
 
 - ⚡ Fun fact: I am a certified gut-health advisor (certified in Japan).
   
