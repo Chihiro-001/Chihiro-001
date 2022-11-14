@@ -1,4 +1,4 @@
-<img src="https://github.com/Chihiro-001/Chihiro-001/blob/main/heading-picture_ChihiroIsmail_new.png" alt="heading picture for Chihiro Ismail" align="center" style="width: 100%"/>
+<img src="https://github.com/Chihiro-001/Chihiro-001/blob/main/heading.png" alt="heading picture for Chihiro Ismail" align="center" style="width: 100%"/>
 
 
 - 🌱 I’m currently learning NextJS, Redux, and AWS.
@@ -11,7 +11,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="75%">
-
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
