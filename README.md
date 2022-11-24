@@ -1,9 +1,16 @@
 <img src="https://github.com/Chihiro-001/Chihiro-001/blob/main/heading.png" alt="heading picture for Chihiro Ismail" align="center" style="width: 100%"/>
 
+What I am doing:
+I am studying JavaScript, ReactJS, NextJS and AWS Cloud Practitioner (expected graduation time is late February). 
+The project I am working on is a gut-health journey app in ReactJS.
 
-- 🌱 I’m currently learning NextJS, Redux, and AWS.
+Why I started:
+I came to realize that there is great chance for me to make my individual action for saving nature and promoting preventive healthcare into bigger scale through programming. My passion for health and nature is eternal and this is my infinite gasoline to keep learning programming and cloud infrastructure.
 
-- ⚡ Fun fact: I am a certified gut-health advisor (certified in Japan).
+Little bit more about me:
+- My former professional role was a project coordinator at an international market research company in Tokyo, Japan and at an international research consulting company in Maryland, USA.
+
+- I am a certified gut-health advisor (certified in Japan) 
   
 
 <br/>  
