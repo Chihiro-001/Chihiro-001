@@ -11,6 +11,7 @@ I came to realize that there is great chance for me to make my individual action
 
 ## Little bit more about me:
 <br/> 
+
 - My former professional role was a project coordinator at an international market research company in Tokyo, Japan and at an international research consulting company in Maryland, USA.
 
 - I am a certified gut-health advisor (certified in Japan) 
