@@ -45,7 +45,7 @@ I came to realize that there is a great chance for me to make my individual acti
 
 ### Cloud Related  
 <div align="center">  
-  
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2135541d-fe9a-4874-951a-4e12a5846a16" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </div>
 
 </td><td valign="top" width="33%">
