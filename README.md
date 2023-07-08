@@ -2,19 +2,19 @@
 
 ## What I am doing:
 <br/> 
-I am studying JavaScript, ReactJS, NextJS and AWS Cloud Practitioner (expected graduation time is late February). 
-The project I am working on is a gut-health journey app in ReactJS.
+I am currently participating in a DevOp project. I am aiming to make my portfolio to introduce my AWS projects.
+My current top 3 interests are AWS, Docker, and Python.
 
 ## Why I started:
 <br/> 
-I came to realize that there is great chance for me to make my individual action for saving nature and promoting preventive healthcare into bigger scale through programming. My passion for health and nature is eternal and this is my infinite gasoline to keep learning programming and cloud infrastructure.
+I came to realize that there is a great chance for me to make my individual action for saving nature and promoting preventive healthcare on a bigger scale through programming. My passion for health and nature is eternal and this is my infinite gasoline to keep learning programming and cloud infrastructure.
 
 ## Little bit more about me:
 <br/> 
 
-- My former professional role was a project coordinator at an international market research company in Tokyo, Japan and at an international research consulting company in Maryland, USA.
+- My former professional role was a project coordinator at an international market research company in Tokyo, Japan, and an international research consulting company in Maryland, USA.
 
-- I am a certified gut-health advisor (certified in Japan) 
+- I am a certified gut health advisor (certified in Japan) 
   
 
 <br/>  
