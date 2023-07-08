@@ -45,7 +45,7 @@ I came to realize that there is a great chance for me to make my individual acti
 
 ### Cloud Related  
 <div align="center">  
-  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 30px" src="https://images.credly.com/size/220x220/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS" height="50" /></a>  
+  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 30px" src="https://images.credly.com/size/220x220/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" alt="AWS" height="80" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
